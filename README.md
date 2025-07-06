@@ -8,7 +8,7 @@ Example:Pass a topic and optionally a video_url.
 topic: Give me an overview of the idea that LLMs are like a new kind of operating system.给我一个LLM就像一种新的操作系统的概念的概述。
 video_url: https://youtu.be/LCEmiRjPEtQ?si=raeMN2Roy5pESNG2
 - 然后系统将使用搜索对该主题进行研究，分析视频，联合见解，并为您生成一份包含引用的报告。
-- 
+
 它利用了Gemini的一些本地功能：
 1)视频理解和原生YouTube工具：YouTube视频的集成处理
 2)Google搜索工具：原生Google搜索工具与实时Web结果集成
